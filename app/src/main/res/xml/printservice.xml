@@ -1,0 +1,4 @@
+<print-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.kangear.uprinter.printservice.SettingsActivity"
+    android:addPrintersActivity="com.kangear.uprinter.printservice.AddPrintersActivity"
+    android:advancedPrintOptionsActivity="com.kangear.uprinter.printservice.CustomPrintOptionsActivity"/>
